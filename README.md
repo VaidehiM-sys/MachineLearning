@@ -1,5 +1,5 @@
 # Machine Learning
-Implementation of Machine Learning Algorithms using various datasets and observations regarding them.
+Implementation of Machine Learning Algorithms using various datasets and observations about the results.
 
 ## 1. Linear Regression using normal equation and gradient descent
 
