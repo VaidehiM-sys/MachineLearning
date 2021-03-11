@@ -1,2 +1,1 @@
-# MachineLearning
- Machine Learning
+EigenHand -- An application of principal component analysis (PCA) on image processing
