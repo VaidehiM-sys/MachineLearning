@@ -1,5 +1,5 @@
 # Machine Learning
-Machine Learning Algorithms implemnted using vaious data sets
+Implementation of Machine Learning Algorithms using various datasets and observation regarding them.
 
 ## 1. Linear Regression using normal equation and gradient descent
 
