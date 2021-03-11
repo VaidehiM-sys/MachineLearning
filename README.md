@@ -1,7 +1,7 @@
 # Machine Learning
 Machine Learning Algorithms implemnted using vaious data sets
 
-1. Linear Regression using normal equation and gradient descent
+## 1. Linear Regression using normal equation and gradient descent
 
   A linear regression model that predicts the GPAs of university students from two features, Math SAT and Verb SAT. 
   a) Training the model using Normal Equation method.
