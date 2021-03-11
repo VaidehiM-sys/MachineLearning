@@ -9,23 +9,23 @@ Machine Learning Algorithms implemnted using vaious data sets
   c) Play arounding with different learning rate alpha for the model
 
 
-2. Logistic Regression using Sign Languages data 
+## 2. Logistic Regression using Sign Languages data 
 
 a) Implementation of Sigmoid function
 b) Parameter Initialization and forward and backward computation
 c) Implemntation of Gradient Descent and function to predict
 d) Evaluation Matrix Calculation
 
-3.  Support Vector Machine
+## 3.  Support Vector Machine
 
 A toy SVM model using mini dataset, computation of Q matrix and solving equation for decision boudary
 
-4. Shallow Neural Network
+## 4. Shallow Neural Network
 
 Implementation of a 2-layer shallow neural network model. Use of a model to conduct the same binary classification task, i.e., classify two categories of the sign language dataset. The input size is the number of pixels in a image 64*64. The size of hidden layer is determined by a hyperparameter n_h, and the size of output layer is 1.
 
 
-5. Deep Neural Network
+## 5. Deep Neural Network
 
 Implementation of the Deep Neural Network with following structure
 
@@ -33,7 +33,7 @@ Implementation of the Deep Neural Network with following structure
 ![image](https://user-images.githubusercontent.com/52694641/110718639-3e11f400-81c0-11eb-9727-1f61f2a1b85e.png)
 
 
-6. Convolutional Neural Network
+## 6. Convolutional Neural Network
 
 A Convolutional Neural Network Model for Image Classification using PyTorch
 Implementation of a fully functioning CNN model using PyTorch. I have used the model to conduct image classification on the sign language dataset.
