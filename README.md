@@ -3,10 +3,10 @@ Machine Learning Algorithms implemnted using vaious data sets
 
 1. Linear Regression using normal equation and gradient descent
 
-A linear regression model that predicts the GPAs of university students from two features, Math SAT and Verb SAT. 
-a) Training the model using Normal Equation method.
-b) Training the model using Gradient Descent method.
-c) Play arounding with different learning rate alpha for the model
+  A linear regression model that predicts the GPAs of university students from two features, Math SAT and Verb SAT. 
+  a) Training the model using Normal Equation method.
+  b) Training the model using Gradient Descent method.
+  c) Play arounding with different learning rate alpha for the model
 
 
 2. Logistic Regression using Sign Languages data 
@@ -28,6 +28,8 @@ Implementation of a 2-layer shallow neural network model. Use of a model to cond
 5. Deep Neural Network
 
 Implementation of the Deep Neural Network with following structure
+
+
 ![image](https://user-images.githubusercontent.com/52694641/110718639-3e11f400-81c0-11eb-9727-1f61f2a1b85e.png)
 
 
